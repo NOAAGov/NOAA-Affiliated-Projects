@@ -13,3 +13,6 @@ Below is a list of NOAA Affiliated GitHub organizations with a link and brief de
 
 NOAA/PMEL conducts research to advance our knowledge of the global ocean and its interactions with the earth, atmosphere and ecosystems.<br>
 	
+### [NOAA Emergency Response Division (ERD)](https://github.com/NOAA-ORR-ERD)
+
+NOAA ERD Provides scientific and technical support to prepare for and respond to oil and chemical releases.
