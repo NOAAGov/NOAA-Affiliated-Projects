@@ -10,6 +10,9 @@ Below is a list of NOAA Affiliated GitHub organizations with a link and brief de
 <b><a href="https://github.com/NOAA-PMEL">Pacific Marine Environmental Laboratory (PMEL)</a></b><br>
 	NOAA/PMEL conducts research to advance our knowledge of the global ocean and its interactions with the earth, atmosphere and ecosystems.<br>
 
-<b><a href="https://github.com/NOAA-ORR-ERD">NOAA Emergency Response Division (ERD)</a></b><br>
+<b><a href="https://github.com/NOAA-ORR-ERD">Emergency Response Division (ERD)</a></b><br>
 	NOAA ERD Provides scientific and technical support to prepare for and respond to oil and chemical releases.<br>
+	
+<b><a href="https://github.com/NOAA-GSD">Global Systems Division</a></b><br>
+	NOAA's Global Systems Division (GSD) of the Earth System Research Laboratory (ESRL) is a leader in the applied research, directed development, and technology transfer of environmental data, products, and services that enhance environmental understanding with the outcome of supporting commerce, protecting life and property, and promoting a scientifically literate public.
 	
