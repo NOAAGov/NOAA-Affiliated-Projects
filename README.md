@@ -22,3 +22,7 @@ NOAA's Global Systems Division (GSD) of the Earth System Research Laboratory (ES
 ### [NOAA Emergency Response Division (ERD)](https://github.com/NOAA-ORR-ERD)
 
 NOAA ERD Provides scientific and technical support to prepare for and respond to oil and chemical releases.
+
+### [Geophysical Fluid Dynamics Laboratory (GFDL)](https://github.com/NOAA-GFDL)
+
+GFDL's mission is to advance scientific understanding of climate and its natural and anthropogenic variations and impacts, and improve NOAA's predictive capabilities, through the development and use of world-leading computer models of the Earth System.
