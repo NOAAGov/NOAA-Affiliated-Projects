@@ -19,6 +19,10 @@ NOAA/PMEL conducts research to advance our knowledge of the global ocean and its
 
 NOAA's Global Systems Division (GSD) of the Earth System Research Laboratory (ESRL) is a leader in the applied research, directed development, and technology transfer of environmental data, products, and services that enhance environmental understanding with the outcome of supporting commerce, protecting life and property, and promoting a scientifically literate public.
 
+### [Environmental Modeling Center (EMC)](https://github.com/NOAA-EMC)
+
+The fundamental mission of the NCEP/NWS Environmental Modeling Center (EMC), in close collaboration with our partners and stakeholders, is to maintain, enhance and transition-to-operations advanced numerical guidance systems for the Nation's weather/water/climate enterprise and the global community for the protection of life/property and the enhancement of the economy.
+
 ### [NOAA Emergency Response Division (ERD)](https://github.com/NOAA-ORR-ERD)
 
 NOAA ERD Provides scientific and technical support to prepare for and respond to oil and chemical releases.
