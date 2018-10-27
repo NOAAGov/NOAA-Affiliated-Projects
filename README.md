@@ -26,3 +26,7 @@ NOAA ERD Provides scientific and technical support to prepare for and respond to
 ### [Geophysical Fluid Dynamics Laboratory (GFDL)](https://github.com/NOAA-GFDL)
 
 GFDL's mission is to advance scientific understanding of climate and its natural and anthropogenic variations and impacts, and improve NOAA's predictive capabilities, through the development and use of world-leading computer models of the Earth System.
+
+### [Atlantic Oceanographic and Meteorological Laboratory (AOML)](https://github.com/NOAA-AOML)
+
+AOML is a federal research laboratory within NOAA's Office of Oceanic and Atmospheric Research (OAR) with diverse research programs in ocean sciences. Its divisions include Hurricane Research, Ocean Chemistry and Ecosystems, and Physical Oceanography.
