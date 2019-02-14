@@ -26,3 +26,7 @@ NOAA ERD Provides scientific and technical support to prepare for and respond to
 ### [Geophysical Fluid Dynamics Laboratory (GFDL)](https://github.com/NOAA-GFDL)
 
 GFDL's mission is to advance scientific understanding of climate and its natural and anthropogenic variations and impacts, and improve NOAA's predictive capabilities, through the development and use of world-leading computer models of the Earth System.
+
+### [Great Lakes Environmental Research Laboratory (GLERL)](https://github.com/NOAA-GLERL)
+
+NOAA/GLERL conducts research to advance observation, modeling, understanding, and prediction of the Great Lakes.
