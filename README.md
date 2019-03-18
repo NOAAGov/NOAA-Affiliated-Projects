@@ -19,6 +19,10 @@ NOAA/PMEL conducts research to advance our knowledge of the global ocean and its
 
 NOAA's Global Systems Division (GSD) of the Earth System Research Laboratory (ESRL) is a leader in the applied research, directed development, and technology transfer of environmental data, products, and services that enhance environmental understanding with the outcome of supporting commerce, protecting life and property, and promoting a scientifically literate public.
 
+### [Physical Sciences Division (PSD)](https://github.com/NOAA-PSD)
+
+The [NOAA ESRL Physical Sciences Division](http://www.esrl.noaa.gov/psd) (PSD) conducts scientific research to observe, understand, model, predict and forecast weather, water and climate extremes and their impacts.
+
 ### [NOAA Emergency Response Division (ERD)](https://github.com/NOAA-ORR-ERD)
 
 NOAA ERD Provides scientific and technical support to prepare for and respond to oil and chemical releases.
