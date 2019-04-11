@@ -31,6 +31,10 @@ NOAA ERD Provides scientific and technical support to prepare for and respond to
 
 GFDL's mission is to advance scientific understanding of climate and its natural and anthropogenic variations and impacts, and improve NOAA's predictive capabilities, through the development and use of world-leading computer models of the Earth System.
 
+### [Ecosystem Dynamics and Assessment Branch (EDAB)](https://github.com/NOAA-EDAB)
+
+NOAA's Ecosystem Dynamics and Assessment Branch (EDAB) of the Northeast Fisheries Science Center's (NEFSC) is dedicated to providing scientific guidance and tools to facilitate Ecosystem-based Management (EBM) for the Northeastern United States. EDAB provide basic information on fundamental ecological properties of the system to the broad spectrum of stakeholders that are engaged in the discussion of policy alternatives to meet the needs for EBM in the region.
+
 ### [Atlantic Oceanographic and Meteorological Laboratory (AOML)](https://github.com/NOAA-AOML)
 
 AOML is a federal research laboratory within NOAA's Office of Oceanic and Atmospheric Research (OAR) with diverse research programs in ocean sciences. Its divisions include Hurricane Research, Ocean Chemistry and Ecosystems, and Physical Oceanography.
