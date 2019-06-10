@@ -47,3 +47,7 @@ AOML is a federal research laboratory within NOAA's Office of Oceanic and Atmosp
 
 NOAA/GLERL conducts research to advance observation, modeling, understanding, and prediction of the Great Lakes.
 
+### [Office of Coast Survey (OCS)](https://nauticalcharts.noaa.gov/)
+
+NOAA Office of Coast Survey is the nation's nautical chartmaker and maintainer of the national bathymetry. Originally formed by President Thomas Jefferson in 1807, Coast Survey is the hub for marine navigational information in the United States through chart updates, coastal seafloor surveys, maritime emergency response, and modeled oceanography to support operational tools.
+
