@@ -55,3 +55,6 @@ NOAA/GLERL conducts research to advance observation, modeling, understanding, an
 
 NOAA [Office of Coast Survey](https://nauticalcharts.noaa.gov) is the nation's nautical chartmaker and maintainer of the national bathymetry. Originally formed by President Thomas Jefferson in 1807, Coast Survey is the hub for marine navigational information in the United States through chart updates, coastal seafloor surveys, maritime emergency response, and modeled oceanography to support operational tools.
 
+### [Office for Coastal Management (OCM)](https://github.com/noaa-ocm)
+
+"Coastal management" refers to actions taken to keep residents safe, the economy sound, and natural resources functioning. This is accomplished with federal and state partnership programs. Federal legislation provides the overarching mandates; NOAA's [Office for Coastal Management](https://coast.noaa.gov/) oversees implementation and provides technical assistance; federally approved state programs provide day-to-day implementation.
