@@ -65,3 +65,18 @@ NOAA/NWS [Meteorological Development Laboratory (MDL)](https://www.weather.gov/m
 ### [NOAA Fisheries Office of Science and Technology Fisheries Statistics Division (OST-ST1)](https://github.com/NOAA-Fisheries-OST-ST1)
 
 NOAA Fisheries OST ST1 (https://www.fisheries.noaa.gov/about/office-science-and-technology) collects data and coordinates information and research programs to support science-based stewardship of the nation’s living marine resources.  ST1 disseminates state and federal statistics about marine fisheries, designs and administers recreational fisheries surveys, and coordinates the Marine Recreational Information Program.
+
+### [Space Weather Prediction Center (SWPC)](https://github.com/NOAA-SWPC)
+
+The [Space Weather Prediction Center (SWPC)](https://swpc.noaa.gov) is a laboratory and weather forecasting center of the National Oceanic and Atmospheric Administration (NOAA) located in Boulder, Colorado. SWPC continually monitors and forecasts Earth's space environment, providing solar-terrestrial information. The SWPC Forecast Center is the national and world warning center for disturbances that can affect people and equipment working in the space environment. It provides real-time monitoring and forecasting of solar and geophysical events, conducts research in solar-terrestrial physics, and develops techniques for forecasting solar and geophysical disturbances.
+
+### [Center for Operational Oceanographic Products and Services (CO-OPS)](https://github.com/NOAA-CO-OPS)
+
+NOAA/NOS' [Center for Operational Oceanographic Products and Services](https://tidesandcurrents.noaa.gov) is the authorative source for accurate and reliable tides, water levels, currents and other coastal oceanographic and meteorological information. We work from the water to the web, turning oceanographic and meteorological data into meaningful information for the nation. Our products and services support safe and efficient maritime commerce and transportation, protect public health and safety, and safeguard coastal communities.
+
+### [National Centers for Environmental Information (NCEI)](https://github.com/NCEI-NOAAGov)
+
+NOAA's National Centers for Environmental Information (NCEI) hosts and provides public access to one of the most significant archives for environmental data on Earth. We maintain over 37 petabytes of comprehensive atmospheric, coastal, oceanic, and geophysical data. This repository provides tools for users to access NOAA's environmental data archive.
+
+
+
