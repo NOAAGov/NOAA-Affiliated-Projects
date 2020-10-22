@@ -64,3 +64,8 @@ NOAA/NWS [Meteorological Development Laboratory (MDL)](https://www.weather.gov/m
 
 ### [Center for Operational Oceanographic Products and Services (CO-OPS)](https://github.com/NOAA-CO-OPS)
 NOAA/NOS' [Center for Operational Oceanographic Products and Services](https://tidesandcurrents.noaa.gov) is the authorative source for accurate and reliable tides, water levels, currents and other coastal oceanographic and meteorological information. We work from the water to the web, turning oceanographic and meteorological data into meaningful information for the nation. Our products and services support safe and efficient maritime commerce and transportation, protect public health and safety, and safeguard coastal communities.
+
+### [National Centers for Environmental Information (NCEI)](https://github.com/NCEI-NOAAGov)
+
+NOAA's National Centers for Environmental Information (NCEI) hosts and provides public access to one of the most significant archives for environmental data on Earth. We maintain over 37 petabytes of comprehensive atmospheric, coastal, oceanic, and geophysical data. This repository provides tools for users to access NOAA's environmental data archive.
+
