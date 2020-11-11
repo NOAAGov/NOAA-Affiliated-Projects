@@ -17,7 +17,7 @@ NOAA/PMEL conducts research to advance our knowledge of the global ocean and its
 
 ### [Chemical Sciences Division (CSL)](https://github.com/NOAA-CSL)
 
-The mission of the NOAA ESRL Chemical Sciences Laboratory (CSD) is to advance scientific understanding of three major environmental and societal issues of our time: climate, air quality, and the stratospheric ozone layer through atmospheric research on the chemical and related physical processes that affect Earth’s atmospheric composition. Our vision is a nation that has the needed scientific understanding and information about our atmosphere (environmental intelligence) to make optimal decisions in the interests of the well being of current and future generations.
+The mission of the NOAA ESRL Chemical Sciences Laboratory (CSL) is to advance scientific understanding of three major environmental and societal issues of our time: climate, air quality, and the stratospheric ozone layer through atmospheric research on the chemical and related physical processes that affect Earth’s atmospheric composition. Our vision is a nation that has the needed scientific understanding and information about our atmosphere (environmental intelligence) to make optimal decisions in the interests of the well being of current and future generations.
 
 ### [Global Systems Division (GSL)](https://github.com/NOAA-GSL)
 
