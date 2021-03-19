@@ -86,4 +86,6 @@ NOAA/NOS' [Center for Operational Oceanographic Products and Services](https://t
 
 NOAA's National Centers for Environmental Information (NCEI) hosts and provides public access to one of the most significant archives for environmental data on Earth. We maintain over 37 petabytes of comprehensive atmospheric, coastal, oceanic, and geophysical data. This repository provides tools for users to access NOAA's environmental data archive.
 
+### [Pacific Islands Fisheries Science Center (PIFSC)](https://github.com/PIFSC-NMFS-NOAA/pifsc-info)
 
+The [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) administers and conducts scientific research and monitoring programs that produce science to support the conservation and management of fisheries and living marine resources. We conduct research on fisheries and ocean ecosystems and the communities that depend on them throughout the Pacific Islands region, and by dedicating efforts to the recovery and conservation of protected species. The Center is organized into five major divisions: Operations, Management, and Information Division; Science Operations Division; Fisheries Research and Monitoring Division; Protected Species Division; and Ecosystem Sciences Division.
