@@ -11,6 +11,10 @@ This repository contains a list of GitHub accounts and repositories that are con
 
 Below is a list of NOAA Affiliated GitHub organizations with a link and brief description. More information on their repositories can be found in the README files of each page.
 
+### [NOAA Central Library (PMEL)](https://github.com/NOAA-Central-Library-NCL)
+
+The NOAA Central Library's mission is to support and further NOAA’s mission of promoting global environmental stewardship in order to conserve and wisely manage the Nation's marine and coastal resources; and describing, monitoring, and predicting changes in the Earth's environment in order to ensure and enhance sustainable economic opportunities.
+
 ### [Pacific Marine Environmental Laboratory (PMEL)](https://github.com/NOAA-PMEL)
 
 NOAA/PMEL conducts research to advance our knowledge of the global ocean and its interactions with the earth, atmosphere and ecosystems.
