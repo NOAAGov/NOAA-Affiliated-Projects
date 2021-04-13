@@ -93,3 +93,12 @@ NOAA's National Centers for Environmental Information (NCEI) hosts and provides 
 ### [Pacific Islands Fisheries Science Center (PIFSC)](https://github.com/PIFSC-NMFS-NOAA/pifsc-info)
 
 The [Pacific Islands Fisheries Science Center](https://www.fisheries.noaa.gov/about/pacific-islands-fisheries-science-center) administers and conducts scientific research and monitoring programs that produce science to support the conservation and management of fisheries and living marine resources. We conduct research on fisheries and ocean ecosystems and the communities that depend on them throughout the Pacific Islands region, and by dedicating efforts to the recovery and conservation of protected species. The Center is organized into five major divisions: Operations, Management, and Information Division; Science Operations Division; Fisheries Research and Monitoring Division; Protected Species Division; and Ecosystem Sciences Division.
+
+### [National Geodetic Survey (NGS)] (https://github.com/noaa-ngs)
+
+NOAA's National Geodetic Survey (NGS) defines, maintains, and provides access to the National Spatial Reference System (NSRS) - a consistent coordinate system that defines latitude, longitude, height, scale, gravity, orientation, and shoreline throughout the United States and is designed to meet our nation~Rs economic, social, and environmental needs.
+
+For 200 years, NGS and its predecessor agencies have collaborated with public and private organizations to establish reference stations at precisely determined locations. Traditionally, these locations have been identified by setting a survey mark~Wusually a brass, bronze, or aluminum disk. Locations might also be identified by a deeply driven rod or a prominent object, such as a water tower or church spire. More recently, NGS has fostered a network of continuously operating reference stations (CORS) where each CORS includes a highly accurate receiver that continuously collects radio signals broadcast by Global Navigation Satellite System (GNSS) satellites.
+
+For more information please visit https://geodesy.noaa.gov
+
