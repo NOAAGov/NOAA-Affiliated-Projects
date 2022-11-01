@@ -101,4 +101,11 @@ NOAA's National Geodetic Survey (NGS) defines, maintains, and provides access to
 For 200 years, NGS and its predecessor agencies have collaborated with public and private organizations to establish reference stations at precisely determined locations. Traditionally, these locations have been identified by setting a survey mark - usually a brass, bronze, or aluminum disk. Locations might also be identified by a deeply driven rod or a prominent object, such as a water tower or church spire. More recently, NGS has fostered a network of continuously operating reference stations (CORS) where each CORS includes a highly accurate receiver that continuously collects radio signals broadcast by Global Navigation Satellite System (GNSS) satellites.
 
 For more information please visit https://geodesy.noaa.gov
+  
+### [Marine Spatial Ecology Division (MSE)](https://github.com/BB-MSE-NCCOS-NOAA)
 
+Coastal communities need to balance the inherent trade-offs between resource use and conservation. Managers need comprehensive information to evaluate the benefits and consequences of actions on both the ecosystem and the community. Marine Spatial Ecology (MSE) integrates a broad spectrum of physical, biological, and social sciences, to inform coastal and marine decision making. Communities, state and federal stewards, and industries such as aquaculture, offshore energy, and tourism use MSE to make decisions so that the economy can thrive and residents and visitors can enjoy our nation’s natural heritage, now and for generations to come.
+
+NCCOS has long been a leader in the MSE community, providing a three-decade foundation of reliable and objective ecological and socioeconomic information. NCCOS scientists will continue to provide integrated biogeographic, ecological and social assessments – alongside mapping and monitoring products and services – to provide an end-to-end MSE enterprise in support of customers in the coastal and ocean management community. These unique capabilities are used by federal, state, and local decision makers to ensure that special places are valued, protected, and preserved, and to assist in growing the economies that are dependent on our nation’s maritime resources.
+
+For more information, please visit the [NCCOS website](https://coastalscience.noaa.gov/).
