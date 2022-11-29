@@ -102,7 +102,7 @@ For 200 years, NGS and its predecessor agencies have collaborated with public an
 
 For more information please visit https://geodesy.noaa.gov
   
-### [Marine Spatial Ecology Division (MSE)](https://github.com/BB-MSE-NCCOS-NOAA)
+### [Marine Spatial Ecology Division (MSE)](https://github.com/MSE-NCCOS-NOAA)
 
 Coastal communities need to balance the inherent trade-offs between resource use and conservation. Managers need comprehensive information to evaluate the benefits and consequences of actions on both the ecosystem and the community. Marine Spatial Ecology (MSE) integrates a broad spectrum of physical, biological, and social sciences, to inform coastal and marine decision making. Communities, state and federal stewards, and industries such as aquaculture, offshore energy, and tourism use MSE to make decisions so that the economy can thrive and residents and visitors can enjoy our nation’s natural heritage, now and for generations to come.
 
