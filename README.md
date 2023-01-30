@@ -19,11 +19,11 @@ The NOAA Central Library's mission is to support and further NOAA’s mission of
 
 NOAA/PMEL conducts research to advance our knowledge of the global ocean and its interactions with the earth, atmosphere and ecosystems.
 
-### [Chemical Sciences Division (CSL)](https://github.com/NOAA-CSL)
+### [Chemical Sciences Laboratory (CSL)](https://github.com/NOAA-CSL)
 
 The mission of the NOAA ESRL Chemical Sciences Laboratory (CSL) is to advance scientific understanding of three major environmental and societal issues of our time: climate, air quality, and the stratospheric ozone layer through atmospheric research on the chemical and related physical processes that affect Earth’s atmospheric composition. Our vision is a nation that has the needed scientific understanding and information about our atmosphere (environmental intelligence) to make optimal decisions in the interests of the well being of current and future generations.
 
-### [Global Systems Division (GSL)](https://github.com/NOAA-GSL)
+### [Global Systems Laboratory (GSL)](https://github.com/NOAA-GSL)
 
 NOAA's Global Systems Laboratory (GSL) of the Earth System Research Laboratory (ESRL) is a leader in the applied research, directed development, and technology transfer of environmental data, products, and services that enhance environmental understanding with the outcome of supporting commerce, protecting life and property, and promoting a scientifically literate public.
 
@@ -31,7 +31,7 @@ NOAA's Global Systems Laboratory (GSL) of the Earth System Research Laboratory (
 
 The fundamental mission of the NCEP/NWS Environmental Modeling Center (EMC), in close collaboration with our partners and stakeholders, is to maintain, enhance and transition-to-operations advanced numerical guidance systems for the Nation's weather/water/climate enterprise and the global community for the protection of life/property and the enhancement of the economy.
 
-### [Physical Sciences Division (PSD)](https://github.com/NOAA-PSD)
+### [Physical Sciences Laboratory (PSL)](https://github.com/NOAA-PSL)
 
 The [NOAA ESRL Physical Sciences Division](http://www.esrl.noaa.gov/psd) (PSD) conducts scientific research to observe, understand, model, predict and forecast weather, water and climate extremes and their impacts.
 
