@@ -122,3 +122,7 @@ The Harmful Algal Bloom Forecasting (HAB-F) branch within NOAA’s [National Cen
 'Omics describes a suite of cutting-edge tools used to analyze DNA, RNA, proteins, or metabolites. Many 'Omics approaches are faster, less invasive, and more comprehensive than traditional methods. Advances in 'Omics have revolutionized biological study, benefitting many fields including public health, medicine, agriculture, and conservation. For NOAA, techniques such as high-throughput DNA sequencing and subsequent bioinformatics analyses can be harnessed to benefit a myriad of national priorities including fisheries management, aquaculture development, food and water safety, species and habitat conservation, seafood consumer protection, biodiversity monitoring, and natural products discovery. Continued investment in NOAA 'Omics will aid operational efficiency, ecosystem assessments and forecasts, and the U.S. Blue Economy.
 
 Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html).
+
+### [NOAA Center for Artificial Intelligence](https://github.com/noaa-ncai)
+
+The [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-for-artificial-intelligence) is the emerging conduit for Artificial Intelligence and Machine Learning for NOAA mission science initiatives.
