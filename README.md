@@ -123,6 +123,11 @@ The Harmful Algal Bloom Forecasting (HAB-F) branch within NOAA’s [National Cen
 
 Learn more about the NOAA 'Omics program [here](https://oceanexplorer.noaa.gov/technology/omics/noaa-omics.html).
 
+### [NOAA Center for Artificial Intelligence](https://github.com/noaa-ncai)
+
+The [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-for-artificial-intelligence) is the emerging conduit for Artificial Intelligence and Machine Learning for NOAA mission science initiatives.
+
 ### [CEFI Information Hub](https://github.com/NOAA-PSL/CEFI-info-hub-list)
 
 This is a curated list for the 'CEFI related resource'on the information hub created for the [NOAA Climate, Ecosystems, and Fisheries Initiative (CEFI)](https://www.fisheries.noaa.gov/topic/climate-change/climate,-ecosystems,-and-fisheries). The goal of the information hub is to build a comprehensive Climate, Ecosystems, and Fisheries Initiative Information Hub to provide easy access to regional ocean model outputs (high spatial resolution reanalysis, hindcasts, predictions, and projections optimized for management applications), ecosystem projections, and other information relevant to climate-informed resource management.
+
