@@ -19,6 +19,10 @@ The NOAA Central Library's mission is to support and further NOAA’s mission of
 
 NOAA/PMEL conducts research to advance our knowledge of the global ocean and its interactions with the earth, atmosphere and ecosystems.
 
+### [Air Resources Laboratory (ARL)](https://github.com/NOAA-OAR-ARL)
+
+The NOAA Air Resources Laboratory’s (ARL) mission is to improve the ability of the Nation to protect human and ecosystem health and to support a vibrant economy through advanced atmospheric sciences and technologies. ARL’s research focus is on the surface of the Earth from a few feet below the soil up to 2-3 miles in the atmosphere, known as the boundary layer. This part of the atmosphere has a direct impact on people’s health and safety, business and the environment. ARL studies the physical and chemical processes that occur in the boundary layer, on time scales spanning a few hours to several years. ARL studies the mixing, exchange and transformation of energy, moisture, trace gases and particles; and contributes inputs to meteorological models and forecast operations vital to improving weather, climate and air quality forecasts. Primary applications include emergency response, homeland security, air quality, weather forecasts, climate outlooks, commerce and transportation. ARL’s vision is to effectively protect people, the environment and commercial activities from atmospheric risks using the best available scientific understanding of boundary layer processes.
+
 ### [Chemical Sciences Laboratory (CSL)](https://github.com/NOAA-CSL)
 
 The mission of the NOAA ESRL Chemical Sciences Laboratory (CSL) is to advance scientific understanding of three major environmental and societal issues of our time: climate, air quality, and the stratospheric ozone layer through atmospheric research on the chemical and related physical processes that affect Earth’s atmospheric composition. Our vision is a nation that has the needed scientific understanding and information about our atmosphere (environmental intelligence) to make optimal decisions in the interests of the well being of current and future generations.
