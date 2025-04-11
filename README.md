@@ -135,3 +135,6 @@ The [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-f
 
 This is a curated list for the 'CEFI related resource'on the information hub created for the [NOAA Climate, Ecosystems, and Fisheries Initiative (CEFI)](https://www.fisheries.noaa.gov/topic/climate-change/climate,-ecosystems,-and-fisheries). The goal of the information hub is to build a comprehensive Climate, Ecosystems, and Fisheries Initiative Information Hub to provide easy access to regional ocean model outputs (high spatial resolution reanalysis, hindcasts, predictions, and projections optimized for management applications), ecosystem projections, and other information relevant to climate-informed resource management.
 
+### [NWS Northwest River Forecast Center (NWRFC)](https://github.com/NOAA-NWRFC)
+
+The NOAA/NWS [Northwest River River Forecast Center (NWRFC)](https://www.nwrfc.noaa.gov/rfc/) is one of thirteen River Forecast Centers. The NWRFC's operational mission includes (1) modeling river basins across the Pacific Northwest in the Columbia River and Coastal Basins in Washington and Oregon (2) providing water resource forecasts and guidance for region, and (3) supporting decision-making while collaborating with NWS core partners.
