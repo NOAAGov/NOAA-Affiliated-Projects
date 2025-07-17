@@ -133,7 +133,7 @@ The [NOAA Center for Artificial Intelligence](https://www.noaa.gov/noaa-center-f
 
 ### [CEFI Information Hub](https://github.com/NOAA-PSL/CEFI-info-hub-list)
 
-This is a curated list for the 'CEFI related resource'on the information hub created for the [NOAA Climate, Ecosystems, and Fisheries Initiative (CEFI)](https://www.fisheries.noaa.gov/topic/climate-change/climate,-ecosystems,-and-fisheries). The goal of the information hub is to build a comprehensive Climate, Ecosystems, and Fisheries Initiative Information Hub to provide easy access to regional ocean model outputs (high spatial resolution reanalysis, hindcasts, predictions, and projections optimized for management applications), ecosystem projections, and other information relevant to climate-informed resource management.
+This is a curated list for the 'CEFI related resource'on the information hub created for the [NOAA Changing Ecosystems, and Fisheries Initiative (CEFI)](https://www.fisheries.noaa.gov/topic/climate-change/climate,-ecosystems,-and-fisheries). The goal of the information hub is to build a comprehensive Changing Ecosystems, and Fisheries Initiative Information Hub to provide easy access to regional ocean model outputs (high spatial resolution reanalysis, hindcasts, predictions, and projections optimized for management applications), ecosystem projections, and other information relevant to climate-informed resource management.
 
 ### [NWS Northwest River Forecast Center (NWRFC)](https://github.com/NOAA-NWRFC)
 
