@@ -37,7 +37,7 @@ The fundamental mission of the NCEP/NWS Environmental Modeling Center (EMC), in 
 
 ### [Physical Sciences Laboratory (PSL)](https://github.com/NOAA-PSL)
 
-The [NOAA ESRL Physical Sciences Division](http://www.esrl.noaa.gov/psd) (PSD) conducts scientific research to observe, understand, model, predict and forecast weather, water and climate extremes and their impacts.
+The [NOAA ESRL Physical Sciences Laboratory](https://psl.noaa.gov) (PSL) conducts scientific research to observe, understand, model, predict and forecast weather, water and climate extremes and their impacts.
 
 ### [NOAA Emergency Response Division (ERD)](https://github.com/NOAA-ORR-ERD)
 
