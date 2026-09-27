@@ -139,6 +139,10 @@ This is a curated list for the 'CEFI related resource'on the information hub cre
 
 The NOAA/NWS [Northwest River River Forecast Center (NWRFC)](https://www.nwrfc.noaa.gov/rfc/) is one of thirteen River Forecast Centers. The NWRFC's operational mission includes (1) modeling river basins across the Pacific Northwest in the Columbia River and Coastal Basins in Washington and Oregon (2) providing water resource forecasts and guidance for region, and (3) supporting decision-making while collaborating with NWS core partners.
 
+### [NWS Middle Atlantic River Forecast Center (MARFC)](https://github.com/NOAA-MARFC)
+
+The NWS [Middle Atlantic River Forecast Center (MARFC)](https://www.weather.gov/marfc/) provides timely and accurate hydrologic forecasts and information to support NWS customers and partners, using the best scientific principles to integrate and model water, weather and climate information. MARFC has hydrologic responsibility for one of the most flood-prone and populous regions in the Nation. Our area of responsibility encompasses some 87,000 square miles and includes all or portions of the seven states of New York, Pennsylvania, New Jersey, West Virginia, Maryland, Delaware and Virginia, as well as Washington, D.C.
+
 ### [Southeast Fisheries Science Center (SEFSC)](https://github.com/SEFSC)
 
 The NOAA [Southeast Fisheries Science Center](https://www.fisheries.noaa.gov/about/southeast-fisheries-science-center) provides the scientific advice and data needed to effectively manage the living resources of the Southeast Region and Atlantic high seas. We work closely with NOAA Fisheries Southeast Regional Office to provide independent, objective science. Our multidisciplinary research informs natural resource management. Fisheries management councils, fisheries commissions, and federal, state and local agencies depend on our science to make decisions that protect and conserve the region’s living marine resources.
